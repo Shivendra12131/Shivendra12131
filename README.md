@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Shivendra12131
-- 👀 I’m interested in ML,AI,SOFTWARE DEVELOPMENT
-- 🌱 I’m currently learning C,C++,FRONTEND WEB DEVELOPMENT
+- 👀 I’m interested in SOFTWARE DEVELOPMENT
+- 🌱 I’m currently learning C,C++,PYTHON,JAVA,OS,COMPILER DESIGN,FULL STACK DEVELOPMENT
 - 💞️ I’m looking to collaborate on some good projects by using c,c++,html,css,javascript
 - 
-- 📫 How to reach me MAIL ME  AT shivendra2021bcs66@iiitkottayam.ac.in
+- 📫 How to reach me MAIL ME  AT shivendra8172@gmail.com
 - you can also whatsapp me at 9519179694
 
 <!---
