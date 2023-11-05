@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some good projects by using c,c++,html,css,javascript
 - 
 - 📫 How to reach me MAIL ME  AT shivendra8172@gmail.com
-- you can also whatsapp me at 9519179694
+
 
 <!---
 Shivendra12131/Shivendra12131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
