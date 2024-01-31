@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Shivendra12131
 - 👀 I’m interested in SOFTWARE DEVELOPMENT
-- 🌱 I’m currently learning C,C++,PYTHON,JAVA,OS,COMPILER DESIGN,FULL STACK DEVELOPMENT
-- 💞️ I’m looking to collaborate on some good projects by using c,c++,html,css,javascript
+- I have knowledge of MERN STACK,os,compiler design computer networks R studio,c++
+- 🌱 I’m currently learning cloud computing
+- 💞️ I’m looking to collaborate on some good projects by using c,c++,html,css,javascript,reactjs,mysql,mongodb
 - 
 - 📫 How to reach me MAIL ME  AT shivendra8172@gmail.com
 
